@@ -1,0 +1,15 @@
+{
+  "id": "gemini-omni-1.1-flash-ext",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T14:35:39Z",
+  "prices": {
+    "default": {
+      "list": 0.4375,
+      "effective": 0.35
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.35 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/omni-flash-ext"
+}
